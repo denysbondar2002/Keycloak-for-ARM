@@ -1,1 +1,1 @@
-FROM quay.io/keycloak/keycloak:20.0
+FROM quay.io/keycloak/keycloak:19.0
